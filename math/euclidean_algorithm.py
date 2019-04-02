@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 a = int(input('Input a: '))
-b =	int(input('Input b: ')) 
+b = int(input('Input b: ')) 
 r = a % b
 
 while (not (r==0)):
